@@ -14,22 +14,22 @@ Laravel-based Order Management System for Phoneville Mobile Inc.
 -----
 
 SUPERADMIN
-credentials:
-Email:giannejuson16@gmail.com
-Password: phoneville123/ 123phoneville
+credentials:<br>
+Email:giannejuson16@gmail.com <br>
+Password: phoneville123/ 123phoneville<br>
 
 
 ADMIN
-credentials:
-Email:pandakeeyoob@gmail.com
-Password: phoneville123
+credentials:<br>
+Email:pandakeeyoob@gmail.com<br>
+Password: phoneville123<br>
 
 
 STORE_STAFF
-credentials:
+credentials:<br>
 
-Email: smigglespbear@gmail.com (an example of Inactive user, ie. should not be able to login),
-Password: phoneville123
+Email: smigglespbear@gmail.com (an example of Inactive user, ie. should not be able to login),<br>
+Password: phoneville123<br>
 
-Email:dump9291@gmail.com,
-Password: phoneville123
+Email:dump9291@gmail.com,<br>
+Password: phoneville123<br>
