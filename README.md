@@ -11,7 +11,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Screenshots <br>
 
 <img src="./public/images/laravel-oms-dark-mode.png" width="500px" height="500px"> <br> 
-<img src="./public/images/laravel-oms-light-mode" width="500px" height="500px"> 
+<img src="./public/images/laravel-oms-light-mode.png" width="500px" height="500px"> 
 
 
 ------------------
